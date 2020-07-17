@@ -1,7 +1,7 @@
 # i544c
 
 ![status](https://img.shields.io/badge/status-就活中-red)
-![emotion](https://img.shields.io/badge/emotion-🥺-blue)
+![emotion](https://img.shields.io/badge/emotion-😊-green)
 
 ## Links
 - Twitter: [@_leo_isaac](https://twitter.com/_leo_isaac)
